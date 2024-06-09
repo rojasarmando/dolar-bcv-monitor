@@ -24,4 +24,4 @@ container.addEventListener("mouseout", () => {
     card.style.transition = "all 0.5s ease";
     title.style.transform = "translate3d(0, 0, 0)";
     tree.style.transform = "translate3d(0, 0, 0)";
-}); 
+});
